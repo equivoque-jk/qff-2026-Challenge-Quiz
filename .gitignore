@@ -1,0 +1,8 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv*/
+qff_submissions/
+*.zip
+.env
+.env.*

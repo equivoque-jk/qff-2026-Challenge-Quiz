@@ -4,9 +4,11 @@ QFF 2026 Q-LINK 참가자용 문제지입니다. **문제지 ver3 · 채점 패�
 
 **`QFF_Challenge_Colab.ipynb` 하나만 받으면 됩니다.** 문제 설명, 이미지, 실험 코드와 채점 패키지 설치 셀이 모두 들어 있습니다. 준비 A를 실행하면 GitHub Release의 지정된 grader와 필요한 실험 도구를 자동 설치합니다.
 
-- [문제지 다운로드](https://github.com/equivoque-jk/qff-2026-Hackathon/raw/refs/heads/main/QFF_Challenge_Colab.ipynb)
+- [문제지 파일·다운로드](https://github.com/equivoque-jk/qff-2026-Hackathon/blob/main/QFF_Challenge_Colab.ipynb)
 - [Google Colab에서 바로 열기](https://colab.research.google.com/github/equivoque-jk/qff-2026-Hackathon/blob/main/QFF_Challenge_Colab.ipynb)
 - [GitHub에서 문제지 보기](QFF_Challenge_Colab.ipynb)
+
+문제지 파일 화면에서 **Download raw file** 버튼을 누르면 `.ipynb` 하나를 저장할 수 있습니다. Colab을 사용한다면 위의 바로 열기 링크로 시작해도 됩니다.
 
 ## 실행 환경
 

@@ -1,6 +1,6 @@
 # QFF 2026 — Q-LINK
 
-**Qiskit Fall Fest · QUICK · 고려대학교 | 참가자용 v4**
+**Qiskit Fall Fest · QUICK · 고려대학교 | 참가자용**
 
 Alice, Bob, Charlie의 세 실험실을 연결하는 양자 네트워크 실험에 참여하세요. 측정과 얽힘 자원을 점검하고, 양자 텔레포테이션으로 상태를 전송한 뒤, GHZ–Mermin 게임에서 세 실험실의 협력 성능을 확인합니다.
 
@@ -21,7 +21,7 @@ Alice, Bob, Charlie의 세 실험실을 연결하는 양자 네트워크 실험�
 
 1. Colab에서 열었다면 **자신의 사본으로 저장**하세요. VS Code·Jupyter에서는 내려받은 `.ipynb`를 여세요.
 2. Colab에서는 **CPU 런타임**, VS Code·Jupyter에서는 **Python 3.10–3.13 커널**을 사용하세요. 로컬 환경은 **Python 3.12**를 권장합니다.
-3. **준비 A 셀만 먼저 실행**하세요. [Grader 2.0.5](https://github.com/equivoque-jk/qff-2026-grader/releases/tag/v2.0.5)와 필요한 실험 도구가 설치됩니다. 최초 설치에는 인터넷 연결이 필요합니다.
+3. **준비 A 셀만 먼저 실행**하세요. [Grader 2.0.6](https://github.com/equivoque-jk/qff-2026-grader/releases/tag/v2.0.6)과 필요한 실험 도구가 설치됩니다. 최초 설치에는 인터넷 연결이 필요합니다.
 4. 재시작 안내가 나오면 Colab에서는 **런타임 → 세션 다시 시작**, VS Code·Jupyter에서는 **커널 재시작**을 선택한 뒤 준비 A를 다시 실행하세요.
 5. 준비 완료를 확인한 뒤 준비 B·C·D와 해당 문제의 제공 도구·문제 셀을 순서대로 실행하세요.
 

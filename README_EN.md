@@ -1,6 +1,6 @@
 # QFF 2026 — Q-LINK
 
-**Qiskit Fall Fest · QUICK · Korea University | Participant Edition v4**
+**Qiskit Fall Fest · QUICK · Korea University | Participant Edition**
 
 [한국어 안내](README.md) · **English guide**
 
@@ -21,7 +21,7 @@ Both editions have **the same exercises, structure, point allocation, and gradin
 
 1. If you open the notebook in Colab, **save your own copy**. In VS Code or Jupyter, open the downloaded `.ipynb` file.
 2. Use a **CPU runtime** in Colab or a **Python 3.10–3.13 kernel** in VS Code or Jupyter. **Python 3.12** is recommended for local use.
-3. **Run only Setup A first.** It installs [Grader 2.0.5](https://github.com/equivoque-jk/qff-2026-grader/releases/tag/v2.0.5) and the tools required for the experiments. An internet connection is required for the initial installation.
+3. **Run only Setup A first.** It installs [Grader 2.0.6](https://github.com/equivoque-jk/qff-2026-grader/releases/tag/v2.0.6) and the tools required for the experiments. An internet connection is required for the initial installation.
 4. If prompted to restart, select **Runtime → Restart session** in Colab, or **restart the kernel** in VS Code or Jupyter. Then run Setup A again.
 5. Once setup is complete, run Setup B, C, and D, followed by the provided tools and exercise cells in order.
 

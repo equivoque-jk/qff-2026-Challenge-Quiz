@@ -61,7 +61,9 @@ The **14 core exercises are worth 100 points**, and the **two optional exercises
 
 After editing your answers and running all cells again, the results are saved under a new run ID. **Check that the run ID in the final grading result matches the submission ZIP.** Running the grading cell and saving files does not by itself submit your work.
 
-**Follow the event announcements for the submission destination, deadline, individual or team submission requirements, file naming rules, and contact channel.**
+**Submissions are individual.** Name your completed notebook **`학번_이름.ipynb`** (student ID and name, separated by an underscore) and submit it together with the submission ZIP.
+
+**The submission deadline (date and time), submission form and upload link, and contact channel will be announced on the day of the event.**
 
 ## Troubleshooting
 

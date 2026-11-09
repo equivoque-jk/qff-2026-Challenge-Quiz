@@ -4,15 +4,24 @@
 
 Alice, Bob, Charlie의 세 실험실을 연결하는 양자 네트워크 실험에 참여하세요. 측정과 얽힘 자원을 점검하고, 양자 텔레포테이션으로 상태를 전송한 뒤, GHZ–Mermin 게임에서 세 실험실의 협력 성능을 확인합니다.
 
-**[Google Colab에서 시작하기](https://colab.research.google.com/github/equivoque-jk/qff-2026-Challenge-Quiz/blob/main/QFF_Challenge_Colab.ipynb)** · **[문제지 파일·다운로드](https://github.com/equivoque-jk/qff-2026-Challenge-Quiz/blob/main/QFF_Challenge_Colab.ipynb)**
+## 언어 선택 · Choose your language
 
-문제 설명, 이미지, 실험 코드와 채점 도구 설치 셀이 모두 **`QFF_Challenge_Colab.ipynb` 하나에 들어 있습니다.** 내려받으려면 문제지 파일 화면의 **Download raw file** 버튼을 누르세요. 같은 파일을 Colab·VS Code·Jupyter에서 사용할 수 있습니다.
+| 언어 / Language | Google Colab | 노트북 파일 / Notebook | 사용 안내 / Guide |
+|---|---|---|---|
+| 한국어 | [Colab에서 시작하기](https://colab.research.google.com/github/equivoque-jk/qff-2026-Challenge-Quiz/blob/main/QFF_Challenge_Colab.ipynb) | [QFF_Challenge_Colab.ipynb](https://github.com/equivoque-jk/qff-2026-Challenge-Quiz/blob/main/QFF_Challenge_Colab.ipynb) | 이 README |
+| English | [Open in Colab](https://colab.research.google.com/github/equivoque-jk/qff-2026-Challenge-Quiz/blob/main/QFF_Challenge_Colab_EN.ipynb) | [QFF_Challenge_Colab_EN.ipynb](https://github.com/equivoque-jk/qff-2026-Challenge-Quiz/blob/main/QFF_Challenge_Colab_EN.ipynb) | [English guide](README_EN.md) |
+
+**English participants:** Open the English notebook above and follow the [English guide](README_EN.md). The notebook selects English grading feedback automatically.
+
+두 언어의 **문제·구성·배점·채점 기준은 동일**합니다. 각 노트북은 해당 언어의 채점 피드백과 제출 안내를 자동으로 표시하므로 언어 설정 코드를 수정할 필요가 없습니다.
+
+문제 설명, 이미지, 실험 코드와 채점 도구 설치 셀이 모두 **선택한 노트북 하나에 들어 있습니다.** 내려받으려면 노트북 파일 화면의 **Download raw file** 버튼을 누르세요. 같은 파일을 Colab·VS Code·Jupyter에서 사용할 수 있습니다.
 
 ## 시작하기
 
 1. Colab에서 열었다면 **자신의 사본으로 저장**하세요. VS Code·Jupyter에서는 내려받은 `.ipynb`를 여세요.
 2. Colab에서는 **CPU 런타임**, VS Code·Jupyter에서는 **Python 3.10–3.13 커널**을 사용하세요. 로컬 환경은 **Python 3.12**를 권장합니다.
-3. **준비 A 셀만 먼저 실행**하세요. [Grader 2.0.4](https://github.com/equivoque-jk/qff-2026-grader/releases/tag/v2.0.4)와 필요한 실험 도구가 설치됩니다. 최초 설치에는 인터넷 연결이 필요합니다.
+3. **준비 A 셀만 먼저 실행**하세요. [Grader 2.0.5](https://github.com/equivoque-jk/qff-2026-grader/releases/tag/v2.0.5)와 필요한 실험 도구가 설치됩니다. 최초 설치에는 인터넷 연결이 필요합니다.
 4. 재시작 안내가 나오면 Colab에서는 **런타임 → 세션 다시 시작**, VS Code·Jupyter에서는 **커널 재시작**을 선택한 뒤 준비 A를 다시 실행하세요.
 5. 준비 완료를 확인한 뒤 준비 B·C·D와 해당 문제의 제공 도구·문제 셀을 순서대로 실행하세요.
 

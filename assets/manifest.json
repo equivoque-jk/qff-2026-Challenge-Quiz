@@ -1,0 +1,422 @@
+{
+  "schema_version": 1,
+  "description": "Original, unmodified notebook illustrations. Shared images are deduplicated across languages.",
+  "assets": [
+    {
+      "repo_asset_path": "assets/common/part1-equipment.png",
+      "sha256": "6889c0f5ee7408a3bcdd61f597fc9e5e1229d5d857b1b1b80a4218dda3d72ecb",
+      "bytes": 1759545,
+      "mime_type": "image/png",
+      "dimensions": [
+        2020,
+        778
+      ],
+      "references": [
+        {
+          "language": "ko",
+          "cell_id": "qff-006-participant",
+          "image_index": 0
+        },
+        {
+          "language": "en",
+          "cell_id": "qff-006-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/common/part2-overview.png",
+      "sha256": "b1d3d373a7f6a1903251e56ebb6f90f21e550db70c36ce3260f04826f20b1ac3",
+      "bytes": 1767803,
+      "mime_type": "image/png",
+      "dimensions": [
+        2021,
+        778
+      ],
+      "references": [
+        {
+          "language": "ko",
+          "cell_id": "qff-034-participant",
+          "image_index": 0
+        },
+        {
+          "language": "en",
+          "cell_id": "qff-034-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/common/q-link-overview.png",
+      "sha256": "0681e5d378c67f7781fb285a7175d09c7246c9b1ffc6527f2d2c76a3424983ec",
+      "bytes": 1689204,
+      "mime_type": "image/png",
+      "dimensions": [
+        2020,
+        778
+      ],
+      "references": [
+        {
+          "language": "ko",
+          "cell_id": "qff-000-participant",
+          "image_index": 1
+        },
+        {
+          "language": "en",
+          "cell_id": "qff-000-participant",
+          "image_index": 1
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/common/qiskit-intro.webp",
+      "sha256": "a9a958283091d64f00133b2f9167aeeb1de0ca59d47d8296f1b34e65089819a9",
+      "bytes": 38552,
+      "mime_type": "image/webp",
+      "dimensions": [
+        1710,
+        1266
+      ],
+      "references": [
+        {
+          "language": "ko",
+          "cell_id": "cb3450e4",
+          "image_index": 0
+        },
+        {
+          "language": "en",
+          "cell_id": "cb3450e4",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/common/quick-logo.png",
+      "sha256": "ae929e191feda9c17149ceb6fe46b70d8d827f4c180bfbf379b559ab270beabe",
+      "bytes": 202939,
+      "mime_type": "image/png",
+      "dimensions": [
+        1428,
+        1459
+      ],
+      "references": [
+        {
+          "language": "ko",
+          "cell_id": "qff-000-participant",
+          "image_index": 0
+        },
+        {
+          "language": "en",
+          "cell_id": "qff-000-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/en/mermin-game.png",
+      "sha256": "fd145f594d98a2d550ce06061a3d52447adad77b21d66c3e1d478e826c3aecb7",
+      "bytes": 1625840,
+      "mime_type": "image/png",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "references": [
+        {
+          "language": "en",
+          "cell_id": "qff-055-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/en/part3-overview.png",
+      "sha256": "55635651a75d020306e37f3c5aa91634c77c4b923191cfbe6cebb6be6f410bde",
+      "bytes": 1768023,
+      "mime_type": "image/png",
+      "dimensions": [
+        2020,
+        778
+      ],
+      "references": [
+        {
+          "language": "en",
+          "cell_id": "qff-053-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/en/q1-1-measurement.png",
+      "sha256": "58ea8e328622d679663ec998ad0fb404fbfc8cb2933ffca3f31d81a181dbef7d",
+      "bytes": 1401388,
+      "mime_type": "image/png",
+      "dimensions": [
+        1944,
+        809
+      ],
+      "references": [
+        {
+          "language": "en",
+          "cell_id": "qff-007-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/en/q1-4-basis.png",
+      "sha256": "048d072fd521c4955977f745ce987a6f5adf9ac4e6bc7c68b2c857d9d15c67da",
+      "bytes": 1715299,
+      "mime_type": "image/png",
+      "dimensions": [
+        1944,
+        809
+      ],
+      "references": [
+        {
+          "language": "en",
+          "cell_id": "qff-019-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/en/q1-6-resources.png",
+      "sha256": "e78d5c4a60d5aa860024ec16ae710e467609751d6d81e778f8255bef842ec86a",
+      "bytes": 1665999,
+      "mime_type": "image/png",
+      "dimensions": [
+        1944,
+        809
+      ],
+      "references": [
+        {
+          "language": "en",
+          "cell_id": "qff-027-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/en/scoring.png",
+      "sha256": "29491cdf6b587f96e58985e0c12acabe8cbe44dbf5039ab592f548f2a462a208",
+      "bytes": 105543,
+      "mime_type": "image/png",
+      "dimensions": [
+        2200,
+        932
+      ],
+      "references": [
+        {
+          "language": "en",
+          "cell_id": "qff-083-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/en/teleportation-concept.png",
+      "sha256": "4662408121935d6624b8ba7981f7fb84e4c6146229685021a403f4270d1c96c5",
+      "bytes": 1670671,
+      "mime_type": "image/png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "references": [
+        {
+          "language": "en",
+          "cell_id": "qff-part2-teleportation-concept",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/en/teleportation-implementation.png",
+      "sha256": "0c6c34534551d90878453670b0e29cd64dbf58a2ec58ecbb0486593f211335bf",
+      "bytes": 1447247,
+      "mime_type": "image/png",
+      "dimensions": [
+        1944,
+        809
+      ],
+      "references": [
+        {
+          "language": "en",
+          "cell_id": "qff-036-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/en/teleportation-validation.png",
+      "sha256": "867c02353c5609daf4f6d17a21892faf4d1e182f1c028ca19dce9d574f98a923",
+      "bytes": 1534223,
+      "mime_type": "image/png",
+      "dimensions": [
+        2166,
+        726
+      ],
+      "references": [
+        {
+          "language": "en",
+          "cell_id": "qff-046-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/ko/mermin-game.png",
+      "sha256": "0d11eccc4a66582a76d7391bdf6374f45b1078613d7c7167e27532a5bf08d598",
+      "bytes": 1569989,
+      "mime_type": "image/png",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "references": [
+        {
+          "language": "ko",
+          "cell_id": "qff-055-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/ko/part3-overview.png",
+      "sha256": "5495252f14ed4e29fb77d7daa18fa855de8ccd5ee618ce5086bf50198df2a12f",
+      "bytes": 1710801,
+      "mime_type": "image/png",
+      "dimensions": [
+        2020,
+        778
+      ],
+      "references": [
+        {
+          "language": "ko",
+          "cell_id": "qff-053-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/ko/q1-1-measurement.png",
+      "sha256": "fe6c8177071d49e910e2bf8788728ded7512a92dc23fea0cb3258b660ef3d68e",
+      "bytes": 1552804,
+      "mime_type": "image/png",
+      "dimensions": [
+        1942,
+        809
+      ],
+      "references": [
+        {
+          "language": "ko",
+          "cell_id": "qff-007-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/ko/q1-4-basis.png",
+      "sha256": "4006a92fdc7c3b5c6436643b3c993ce64e65ed6f436c08d22add7b91d80845b0",
+      "bytes": 1545412,
+      "mime_type": "image/png",
+      "dimensions": [
+        1944,
+        809
+      ],
+      "references": [
+        {
+          "language": "ko",
+          "cell_id": "qff-019-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/ko/q1-6-resources.png",
+      "sha256": "d791c42f2d6d9292afd9b63e108fb0f60a95305a1e0e2d7abde167354fe47a72",
+      "bytes": 1580984,
+      "mime_type": "image/png",
+      "dimensions": [
+        1942,
+        809
+      ],
+      "references": [
+        {
+          "language": "ko",
+          "cell_id": "qff-027-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/ko/scoring.png",
+      "sha256": "a807b70e7532b34df043f5874588a6bdf40b7400615dfd5c73772a3b88ba5a69",
+      "bytes": 72595,
+      "mime_type": "image/png",
+      "dimensions": [
+        2200,
+        932
+      ],
+      "references": [
+        {
+          "language": "ko",
+          "cell_id": "qff-083-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/ko/teleportation-concept.png",
+      "sha256": "a7dcf852778c34aa0c02ed39b395a4d1d4663416e0713820b7b0219236e8f27e",
+      "bytes": 1431517,
+      "mime_type": "image/png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "references": [
+        {
+          "language": "ko",
+          "cell_id": "qff-part2-teleportation-concept",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/ko/teleportation-implementation.png",
+      "sha256": "cff048db45d2fe27101a67ea8b444e1f300d97417c5340c1b4797238b6c27f0b",
+      "bytes": 1548561,
+      "mime_type": "image/png",
+      "dimensions": [
+        1944,
+        809
+      ],
+      "references": [
+        {
+          "language": "ko",
+          "cell_id": "qff-036-participant",
+          "image_index": 0
+        }
+      ]
+    },
+    {
+      "repo_asset_path": "assets/ko/teleportation-validation.png",
+      "sha256": "b0075555085a38c3efb168882daead34a50a96e77516971f38aa3746725b2f6b",
+      "bytes": 1503729,
+      "mime_type": "image/png",
+      "dimensions": [
+        2166,
+        726
+      ],
+      "references": [
+        {
+          "language": "ko",
+          "cell_id": "qff-046-participant",
+          "image_index": 0
+        }
+      ]
+    }
+  ]
+}

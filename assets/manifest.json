@@ -418,5 +418,25 @@
         }
       ]
     }
+  ],
+  "readme_assets": [
+    {
+      "repo_asset_path": "assets/readme/qiskit-fall-fest-2026-korea-university.jpg",
+      "sha256": "81af841d8d4714b3d07e6ca869bacb65e43a47969bd7ef22620e831b74329b40",
+      "bytes": 553533,
+      "mime_type": "image/jpeg",
+      "dimensions": [
+        8000,
+        3402
+      ],
+      "references": [
+        {
+          "document": "README.md"
+        },
+        {
+          "document": "README_EN.md"
+        }
+      ]
+    }
   ]
 }

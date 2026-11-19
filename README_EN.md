@@ -34,8 +34,6 @@ The image URLs become accessible without separate repository authorization when 
    Select **`QFF_Challenge_Colab_EN.ipynb`** for the English edition. You can also open it directly using the **Open in Colab** link in the table above.
 
 2. Choose **File → Save a copy in Drive**. Continue in the newly opened **copy in your own Drive**. Your edits and saved work belong to this copy and do not update the distribution repository.<br>
-   In your copy, open **Edit → Notebook settings → AI Assistance** and check that **Hide generative AI features** is selected.<br>
-   If you are using an earlier copy and the box is unchecked, select it and save your copy.
 
 3. **Click the copied notebook's title at the top and rename it to `학번_이름.ipynb`** (your student ID and name, separated by an underscore).
 

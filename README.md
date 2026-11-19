@@ -127,7 +127,7 @@ Join a quantum network experiment connecting the laboratories of Alice, Bob, and
 | Language | Google Colab | Notebook file | Guide |
 |---|---|---|---|
 | English | [Open in Colab](https://colab.research.google.com/github/equivoque-jk/qff-2026-Challenge-Quiz/blob/main/QFF_Challenge_Colab_EN.ipynb) | [QFF_Challenge_Colab_EN.ipynb](QFF_Challenge_Colab_EN.ipynb) | This section |
-| 한국어 | [Colab에서 시작하기](https://colab.research.google.com/github/equivoque-jk/qff-2026-Challenge-Quiz/blob/main/QFF_Challenge_Colab.ipynb) | [QFF_Challenge_Colab.ipynb](QFF_Challenge_Colab.ipynb) | [한국어 안내](#한국어-안내) |
+| Korean | [Open in Colab](https://colab.research.google.com/github/equivoque-jk/qff-2026-Challenge-Quiz/blob/main/QFF_Challenge_Colab.ipynb) | [QFF_Challenge_Colab.ipynb](QFF_Challenge_Colab.ipynb) | [Korean guide](#한국어-안내) |
 
 Both editions have **the same exercises, structure, point allocation, and grading criteria**. Each notebook automatically selects its language for grading feedback and submission instructions; you do not need to edit any language settings.
 
@@ -149,7 +149,7 @@ The image URLs become accessible without separate repository authorization when 
    In your copy, open **Edit → Notebook settings → AI Assistance** and check that **Hide generative AI features** is selected.<br>
    If you are using an earlier copy and the box is unchecked, select it and save your copy.
 
-3. **Click the copied notebook's title at the top and rename it to `학번_이름.ipynb`** (your student ID and name, separated by an underscore).
+3. **Click the copied notebook's title at the top and rename it to `studentid_name.ipynb`** (your student ID and name, separated by an underscore).
 
 4. Use a **CPU runtime** and **run only Setup A first**. It installs the **bundled Grader 2.2.0** and the required experiment tools. An internet connection is required for the initial installation. Packages are not reinstalled if the required versions are already available.
    If Setup A asks you to load the grader data, run the collapsed **Grader package data** cell directly above it, then run Setup A again.
@@ -190,14 +190,14 @@ The **14 core exercises are worth 100 points**, and the **two optional exercises
 
 2. In the final cell, check your **core and additional scores, incomplete items, and errors**. Experiment outputs and checks of answer-function return values serve different purposes, so always inspect the final grading result.
 
-3. Save the **submission ZIP** and **download your completed notebook separately as `학번_이름.ipynb`**. The notebook is **not included in the ZIP**. Download both files before ending the Colab runtime.
+3. Save the **submission ZIP** and **download your completed notebook separately as `studentid_name.ipynb`**. The notebook is **not included in the ZIP**. Download both files before ending the Colab runtime.
 
 4. **Submit both files to the destination announced by the event organizers.** Submissions are individual.
 
 | File to submit | How to save it in Colab |
 |---|---|
 | `QFF_<run ID>.zip` | The final cell requests an automatic browser download. If it does not start, check the printed path and download that ZIP from the Files panel on the left. |
-| `학번_이름.ipynb` | Check the notebook title, then choose **File → Download → Download .ipynb**. |
+| `studentid_name.ipynb` | Check the notebook title, then choose **File → Download → Download .ipynb**. |
 
 After editing your answers and running all cells again, the results are saved under a **new run ID**. Check that the identifier after **`Run ID:`** in the final output matches the identifier in **`QFF_<run ID>.zip`**, and download your notebook again after that run. Files from earlier runs are not overwritten.
 

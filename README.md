@@ -41,7 +41,9 @@ Alice, Bob, Charlie의 세 실험실을 연결하는 양자 네트워크 실험�
 
 2. **파일 → Drive에 사본 저장**을 선택하세요.<br>
    이후 풀이와 실행은 새로 열린 **자신의 Drive 사본**에서 진행합니다.<br>
-   이 사본에 저장한 풀이와 변경 사항은 배포용 GitHub 원본에 반영되지 않습니다.
+   이 사본에 저장한 풀이와 변경 사항은 배포용 GitHub 원본에 반영되지 않습니다.<br>
+   사본에서 **Edit → Notebook settings → AI Assistance**를 열고 **Hide generative AI features**가 선택되어 있는지 확인하세요.<br>
+   이전에 저장한 사본에서도 이 항목이 꺼져 있으면 선택하고 저장하세요.
 
 3. **화면 상단의 사본 이름을 눌러 `학번_이름.ipynb`로 바꾸세요.**<br>
    **사본 저장과 이름 변경을 마친 뒤** 아래 준비 셀을 실행하고 풀이를 시작하세요.
@@ -145,7 +147,9 @@ The image URLs become accessible without separate repository authorization when 
 
    Select **`QFF_Challenge_Colab_EN.ipynb`** for the English edition. You can also open it directly using the **Open in Colab** link in the table above.
 
-2. Choose **File → Save a copy in Drive**. Continue in the newly opened **copy in your own Drive**. Your edits and saved work belong to this copy and do not update the distribution repository.
+2. Choose **File → Save a copy in Drive**. Continue in the newly opened **copy in your own Drive**. Your edits and saved work belong to this copy and do not update the distribution repository.<br>
+   In your copy, open **Edit → Notebook settings → AI Assistance** and check that **Hide generative AI features** is selected.<br>
+   If you are using an earlier copy and the box is unchecked, select it and save your copy.
 
 3. **Click the copied notebook's title at the top and rename it to `학번_이름.ipynb`** (your student ID and name, separated by an underscore).
 

@@ -38,6 +38,7 @@ The image URLs become accessible without separate repository authorization when 
 3. **Click the copied notebook's title at the top and rename it to `학번_이름.ipynb`** (your student ID and name, separated by an underscore).
 
 4. Use a **CPU runtime** and **run only Setup A first**. It installs the **bundled Grader 2.2.0** and the required experiment tools. An internet connection is required for the initial installation. Packages are not reinstalled if the required versions are already available.
+   If Setup A asks you to load the grader data, run the collapsed **Grader package data** cell directly above it, then run Setup A again.
 
 5. **Only if prompted to restart**, select **Runtime → Restart session**, then run Setup A again.
 

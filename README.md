@@ -47,7 +47,8 @@ Alice, Bob, Charlie의 세 실험실을 연결하는 양자 네트워크 실험�
 
 4. **먼저 준비 A 셀만 실행하세요.**<br>
    **문제지에 포함된 채점기 2.2.0**과 실험 도구를 설치합니다.<br>
-   필요한 버전이 이미 설치되어 있으면 재설치하지 않습니다.
+   필요한 버전이 이미 설치되어 있으면 재설치하지 않습니다.<br>
+   준비 A에서 채점기 데이터를 불러오라는 안내가 나오면 바로 위의 접힌 **채점기 패키지 데이터** 셀을 실행한 뒤 준비 A를 다시 실행하세요.
 
 5. **재시작 안내가 나온 경우에만** **런타임 → 세션 다시 시작**을 선택하고 준비 A를 다시 실행하세요.
 
@@ -151,6 +152,7 @@ The image URLs become accessible without separate repository authorization when 
 3. **Click the copied notebook's title at the top and rename it to `학번_이름.ipynb`** (your student ID and name, separated by an underscore).
 
 4. Use a **CPU runtime** and **run only Setup A first**. It installs the **bundled Grader 2.2.0** and the required experiment tools. An internet connection is required for the initial installation. Packages are not reinstalled if the required versions are already available.
+   If Setup A asks you to load the grader data, run the collapsed **Grader package data** cell directly above it, then run Setup A again.
 
 5. **Only if prompted to restart**, select **Runtime → Restart session**, then run Setup A again.
 
